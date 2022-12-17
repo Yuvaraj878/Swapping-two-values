@@ -29,7 +29,7 @@ b=temporary
 
 print ("Swapped values are:",a,b)
 
-### OUTPUT
+## OUTPUT:
 
 
 ## RESULT:
