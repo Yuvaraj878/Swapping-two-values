@@ -18,7 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+a=input () 
+b= input ()
 
+temporary=a
+
+a=b
+
+b=temporary
+
+print ("Swapped values are:",a,b)
+
+### OUTPUT
 
 
 ## RESULT:
