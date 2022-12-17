@@ -30,6 +30,7 @@ b=temporary
 print ("Swapped values are:",a,b)
 
 ## OUTPUT:
+file:///home/sec/Pictures/Screenshots/Swapping%20ex%201.png![image](https://user-images.githubusercontent.com/118622554/208246340-0a52d1f3-91b5-4447-a3a8-466b8cb7e4d5.png)
 
 
 ## RESULT:
